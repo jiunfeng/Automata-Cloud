@@ -1,0 +1,6 @@
+
+tenancy_ocid     = "" # 從 OCI 控制台獲取
+user_ocid        = "" # 從 OCI 控制台獲取
+fingerprint      = "" # 上傳 API Key 後獲得的指紋
+private_key_path = "" # 你下載的 API 私鑰路徑值
+region           = "ap-tokyo-1"
